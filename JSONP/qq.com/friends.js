@@ -1,1 +1,1 @@
-window[{{funcName}}] = {{data}};
+window['{{funcName}}']({{data}});
